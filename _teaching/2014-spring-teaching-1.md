@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "CS 240 Programming in C"
+permalink: "https://turkeyland.net/syllabi/syllabus-240.pdf"
+venue: "Department of Computer Science, Purdue University"
+date: 2019-01-01
+location: "West Lafayette, IN"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
