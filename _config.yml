@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yubo Shao"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Ph.D. Candidate, Department of Computer Science, Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
