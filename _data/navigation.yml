@@ -3,12 +3,9 @@ main:
   - title: "CV/Bio"
     url: /files/cv_yubo.pdf
 
-  - title: "Teaching Experiences"
+  - title: "Teaching"
     url: /teaching/    
-  
-  - title: "Educational Experiences"
-    url: /education/
-  
+    
   - title: "Blogs"
     url: /year-archive/
     
