@@ -3,8 +3,8 @@ main:
   - title: "CV/Bio"
     url: /files/cv_yubo.pdf
   
-  - title: "Publication"
-    url: /publication/ 
+  - title: "Publications"
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    

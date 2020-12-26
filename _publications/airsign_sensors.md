@@ -1,7 +1,7 @@
 ---
 title: "AirSign: Smartphone Authentication by Signing in the Air"
-collection: publication
-permalink: /publication/airsign-paper
+collection: publications
+permalink: /publications/airsign-paper
 date: 2021-01-01
 venue: 'Sensors'
 ---
